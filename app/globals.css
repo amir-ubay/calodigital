@@ -2,3 +2,13 @@
 @plugin "daisyui" {
   themes: light --default;
 }
+
+.homeHero {
+  background-image: 
+    linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(252, 252, 252)),
+    url("/bg-map.svg");
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: lighten;
+  background-color: rgba(241, 241, 241, 0.973);
+}
