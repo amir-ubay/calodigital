@@ -9,6 +9,12 @@ export default function RouteTitle() {
                     </svg>
                     <p className="text-lg font-light text-gray-800">Jakarta - Bandung</p>
                   </div>
+                  <div className="flex">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6 w-6 h-6 pt-1 text-blue-900">
+                      <path fillRule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 6a.75.75 0 0 0-1.5 0v6c0 .414.336.75.75.75h4.5a.75.75 0 0 0 0-1.5h-3.75V6Z" clipRule="evenodd" />
+                    </svg>
+                    <p className="text-lg font-light text-gray-800">07.30</p>
+                  </div>
                 </div>
                 <figure className="w-3/12">
                   <img
